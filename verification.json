@@ -1,0 +1,409 @@
+{
+  "date": "2026-09-09",
+  "browser": "Microsoft Edge / Playwright Chromium API (headless)",
+  "revision": "photo revision with WebP display assets",
+  "sizes": [
+    {
+      "width": 1440,
+      "scroll": 1440,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "scroll": 1024,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "scroll": 375,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "images": [
+        {
+          "src": "assets/hero-metal.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/electrical.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/cable.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/sheetmetal.webp",
+          "loaded": true
+        }
+      ],
+      "brokenLinks": [],
+      "overflow": []
+    }
+  ],
+  "mobileMenu": "click, Enter, Escape, link close passed",
+  "demo": "keyboard activation shows no-send message; zero requests on activation; no forms, tel, mailto, cookies, localStorage or sessionStorage",
+  "textEnlargement": "640px viewport, root font 200%: no horizontal overflow",
+  "fileProtocol": "index.html, all 4 images and demo passed",
+  "pageErrors": [],
+  "externalRequests": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/sheetmetal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "http://127.0.0.1:8797/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/index.html",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/script.js",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/assets/hero-metal.webp",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/assets/electrical.webp",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/assets/cable.webp",
+      "method": "GET"
+    },
+    {
+      "url": "file:///C:/Users/koichi/Documents/Codex/2026-09-09/github-pages-cloudflare-vercel-netlify-sites/outputs/takahashi-denki-local/assets/sheetmetal.webp",
+      "method": "GET"
+    }
+  ],
+  "server": "127.0.0.1:8797, stopped after verification",
+  "visualReview": "Desktop and mobile hero, full page and business section screenshots inspected; no apparent clipping or overlap; photo subject framing checked."
+}
